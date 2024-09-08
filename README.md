@@ -6,10 +6,8 @@ Este proyecto es una representación visual de un skyline de ciudad, construido 
 
 - [Visión General del Proyecto](#visión-general-del-proyecto)
 - [Tecnologías Usadas](#tecnologías-usadas)
-- [Estructura del Proyecto](#estructura-del-proyecto)
 - [Características](#características)
 - [Instrucciones de Configuración](#instrucciones-de-configuración)
-- [Uso](#uso)
 - [Contribuciones](#contribuciones)
 - [Licencia](#licencia)
 
