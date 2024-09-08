@@ -2,6 +2,8 @@
 
 Este proyecto es una representación visual de un skyline de ciudad, construido completamente con HTML y CSS. El objetivo de este reto es practicar habilidades de desarrollo web, enfocándose en crear formas, aplicar diseños y usar CSS tanto para la estética como para las animaciones.
 
+Enlace al proyecto: https://pepejsc.github.io/citySkiline/
+
 ## Tabla de Contenidos
 
 - [Visión General del Proyecto](#visión-general-del-proyecto)
@@ -19,6 +21,7 @@ El reto de **City Skyline** es un ejercicio para mejorar tus habilidades en desa
 - Uso de animaciones en CSS para efectos dinámicos como estrellas parpadeantes o nubes en movimiento.
 - Diseño responsivo para asegurar que el skyline se vea bien en diferentes tamaños de pantalla.
 
+Para verlo en modo dark, debes abrir las opciones de inspección en el navegador y verás la magia.
 ## Tecnologías Usadas
 
 - **HTML5**: Para estructurar el contenido de la página.
