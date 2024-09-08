@@ -44,11 +44,11 @@ El reto de **City Skyline** es un ejercicio para mejorar tus habilidades en desa
 
 2. Navega al directorio del proyecto:
 
-  cd city-skyline-challenge
+   cd city-skyline-challenge
   
-3.  Abre el archivo index.html en tu navegador para ver el skyline:
+4.  Abre el archivo index.html en tu navegador para ver el skyline:
 
-  open index.html
+    open index.html
   
 ## Contribuciones
 Si deseas contribuir a este proyecto, siéntete libre de hacer un fork del repositorio y enviar un pull request. Las contribuciones en forma de sugerencias para nuevas características, corrección de errores u optimizaciones son siempre bienvenidas.
