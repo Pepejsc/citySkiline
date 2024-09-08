@@ -1,63 +1,59 @@
-City Skyline - HTML & CSS Code Challenge
-This project is a visual representation of a city skyline, built entirely using HTML and CSS. The goal of this challenge is to practice web development skills, focusing on creating shapes, applying layouts, and using CSS for both aesthetics and animations.
+# City Skyline - HTML & CSS Code Challenge
 
-Table of Contents
-Project Overview
-Technologies Used
-Project Structure
-Features
-Setup Instructions
-Usage
-Contributing
-License
-Project Overview
-The City Skyline challenge is an exercise to hone your front-end development skills by building a dynamic, animated cityscape. You'll create buildings, skies, and other city elements using only HTML and CSS (no JavaScript). This challenge emphasizes the following concepts:
+Este proyecto es una representación visual de un skyline de ciudad, construido completamente con HTML y CSS. El objetivo de este reto es practicar habilidades de desarrollo web, enfocándose en crear formas, aplicar diseños y usar CSS tanto para la estética como para las animaciones.
 
-Layout with CSS Flexbox or Grid.
-Creating shapes and elements with CSS.
-Using CSS animations for dynamic effects like twinkling stars or moving clouds.
-Responsive design to ensure the skyline looks good on different screen sizes.
-Technologies Used
-HTML5: Structuring the content of the page.
-CSS3: Styling the skyline, including colors, positioning, animations, and responsiveness.
-CSS Flexbox / Grid
-CSS Animations
-Gradients and Shadows
-Project Structure
-The project structure is simple, as it mainly focuses on front-end development:
+## Tabla de Contenidos
 
-bash
+- [Visión General del Proyecto](#visión-general-del-proyecto)
+- [Tecnologías Usadas](#tecnologías-usadas)
+- [Estructura del Proyecto](#estructura-del-proyecto)
+- [Características](#características)
+- [Instrucciones de Configuración](#instrucciones-de-configuración)
+- [Uso](#uso)
+- [Contribuciones](#contribuciones)
+- [Licencia](#licencia)
 
-Features
-City Buildings: Various skyscrapers created using simple <div> elements styled with height, width, and background properties.
-Sky Background: The background is made using CSS gradients to simulate a day or night sky.
-Stars and Moon: Extra celestial elements can be added using CSS shapes or background images.
-CSS Animations: Animations such as twinkling stars, moving clouds, or blinking lights in the buildings.
-Responsive Design: The layout adjusts to different screen sizes for both desktop and mobile devices.
-Setup Instructions
+## Visión General del Proyecto
 
-Clone the repository:
+El reto de **City Skyline** es un ejercicio para mejorar tus habilidades en desarrollo front-end creando un paisaje urbano dinámico y animado. Crearás edificios, cielos y otros elementos urbanos usando solo HTML y CSS (sin JavaScript). Este reto pone énfasis en los siguientes conceptos:
+- Layout usando CSS Flexbox o Grid.
+- Creación de formas y elementos con CSS.
+- Uso de animaciones en CSS para efectos dinámicos como estrellas parpadeantes o nubes en movimiento.
+- Diseño responsivo para asegurar que el skyline se vea bien en diferentes tamaños de pantalla.
 
-Copiar código
-git clone https://github.com/your-username/city-skyline-challenge.git
-Navigate to the project directory:
+## Tecnologías Usadas
 
-Copiar código
-cd city-skyline-challenge
-Open the index.html file in your browser to view the city skyline:
+- **HTML5**: Para estructurar el contenido de la página.
+- **CSS3**: Para estilizar el skyline, incluyendo colores, posicionamiento, animaciones y responsividad.
+  - CSS Flexbox / Grid
+  - Animaciones en CSS
+  - Gradientes y sombras
 
-Copiar código
-open index.html
-Optionally, you can set up a simple live server (e.g., using VSCode's Live Server extension or any local server).
 
-Usage
-Feel free to modify the buildings, sky, and other elements to make the city unique! You can change:
+## Características
 
-Building sizes: Adjust the width and height of buildings to simulate skyscrapers of different sizes.
-Background: Modify the sky’s gradient to simulate different times of day (e.g., sunrise, sunset).
-Animations: Add new CSS animations for elements like blinking windows, moving clouds, or twinkling stars.
-Contributing
-If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions in the form of suggestions for new features, bug fixes, or optimizations are always welcome.
+- **Edificios de la Ciudad**: Varios rascacielos creados usando elementos `<div>` simples con propiedades de altura, ancho y fondo.
+- **Fondo del Cielo**: El fondo está hecho usando gradientes CSS para simular un cielo de día o de noche.
+- **Estrellas y Luna**: Se pueden añadir elementos celestiales adicionales usando formas de CSS o imágenes de fondo.
+- **Animaciones en CSS**: Animaciones como estrellas parpadeantes, nubes en movimiento o luces que se encienden y apagan en los edificios.
+- **Diseño Responsivo**: El diseño se ajusta a diferentes tamaños de pantalla tanto para dispositivos de escritorio como móviles.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Instrucciones de Configuración
+
+1. Clona el repositorio:
+
+   git clone https://github.com/tu-usuario/city-skyline-challenge.git
+
+2. Navega al directorio del proyecto:
+
+  cd city-skyline-challenge
+  
+3.  Abre el archivo index.html en tu navegador para ver el skyline:
+
+  open index.html
+  
+## Contribuciones
+Si deseas contribuir a este proyecto, siéntete libre de hacer un fork del repositorio y enviar un pull request. Las contribuciones en forma de sugerencias para nuevas características, corrección de errores u optimizaciones son siempre bienvenidas.
+
+## Licencia
+Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo LICENSE para más detalles.
